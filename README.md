@@ -1,4 +1,4 @@
-# Sarthak Chunera | Developer Portfolio
+# Sarthak Chunera | Software Developer Portfolio
 
 A responsive personal portfolio website showcasing my projects, skills, and experience as a Frontend and Full-Stack Developer.
 
